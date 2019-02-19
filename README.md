@@ -1,2 +1,2 @@
-# Hierarchical_Clustering
-Python: Hierarchical_Clustering
+# Clustering
+Python:Clustering
